@@ -10,4 +10,4 @@ This infographic shows the most popular schools at Lehigh University.
 This infographic shows the top three most vauluable sports business brads worldwide in 2017
 ![Eric](https://github.com/erg220/erg220.github.io/blob/master/Top%20Sports%20Industry.png?raw=true)
 # The evolution of the New York Football Giants
-![Eric](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1P47pyIKBsMU_VediZlUB69qFDTgJNhaerujYdMcztMw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+(<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1P47pyIKBsMU_VediZlUB69qFDTgJNhaerujYdMcztMw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
