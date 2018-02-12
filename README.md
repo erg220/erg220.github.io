@@ -13,3 +13,5 @@ This infographic shows the top three most vauluable sports business brads worldw
 (<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1P47pyIKBsMU_VediZlUB69qFDTgJNhaerujYdMcztMw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
 # Percent Enrollment at Lehigh University
 (https://github.com/erg220/erg220.github.io/blob/master/Enrollment.png?raw=true)
+# Percent Enrollment at Lehigh University Over the Last 10 Years
+(https://github.com/erg220/erg220.github.io/blob/master/enrollment%20line.png?raw=true)
