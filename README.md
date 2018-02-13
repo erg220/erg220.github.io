@@ -15,3 +15,5 @@ This infographic shows the top three most vauluable sports business brads worldw
 ![Percent Enrollment](https://github.com/erg220/erg220.github.io/blob/master/Enrollment.png?raw=true)
 # Percent Enrollment at Lehigh University Over the Last 10 Years
 ![Percent Enrollment over last 10 years](https://github.com/erg220/erg220.github.io/blob/master/enrollment%20line.png?raw=true)
+# Percent Unemplyment Rate in Three Major Countries
+![unemployment rate](https://github.com/erg220/erg220.github.io/blob/master/unemployment%202.png?raw=true)
