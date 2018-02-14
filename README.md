@@ -19,4 +19,5 @@ This infographic shows the top three most vauluable sports business brads worldw
 ![unemployment rate](https://github.com/erg220/erg220.github.io/blob/master/unemployment%202.png?raw=true)
 # The Arts
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ES-9RgcWrhbLBeLUF0cyEyg1BC_kvQL5uNq_BnxC&amp;viz=MAP&amp;h=false&amp;lat=40.61475136179453&amp;lng=-75.35810427607417&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+# Closest movie theatres to Lehigh University
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1L4lwiYyn4pLtCRafQNCnH-Tp4Nn-dGUnmrGGe3He&amp;viz=MAP&amp;h=false&amp;lat=40.85512278721939&amp;lng=-74.84273897191167&amp;t=1&amp;z=9&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
