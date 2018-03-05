@@ -1,5 +1,5 @@
 # Welcome to my Github Page
-![Welcome to my Github Page] (<iframe src="//www.pixton.com/embed/fclwlw60" frameborder="0" width="100%" height="384" allowfullscreen></iframe>)
+![Welcome to my Github Page](<iframe src="//www.pixton.com/embed/fclwlw60" frameborder="0" width="100%" height="384" allowfullscreen></iframe>)
 # Eric Greenberg
 ## About ME
 My name is Eric Greenberg and I am currently a sophomore at Lehigh University.I am currently majoring in Journalism while minoring in real estate.
