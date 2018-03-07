@@ -1,6 +1,5 @@
 # Welcome to my Github Page
-![Welcome to my Github Page]
-(https://github.com/erg220/erg220.github.io/blob/master/COMIC.png)
+![Welcome to my Github Page](https://github.com/erg220/erg220.github.io/blob/master/COMIC.png)
 # Eric Greenberg
 ## About ME
 My name is Eric Greenberg and I am currently a sophomore at Lehigh University.I am currently majoring in Journalism while minoring in real estate.
